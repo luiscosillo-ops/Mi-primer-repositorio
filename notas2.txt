@@ -1,1 +1,5 @@
 Hola mundillo en notas 2
+
+Mi nombre es Jorge Cosillo
+
+Y esta es mi tarea de control de versiones GIT
