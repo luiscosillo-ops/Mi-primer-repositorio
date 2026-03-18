@@ -1,1 +1,4 @@
 Texto editado por MAIN
+Texto editado por DESARROLLO
+
+Este es un texto que combina cambios de la rama main y la rama desarrollo.
