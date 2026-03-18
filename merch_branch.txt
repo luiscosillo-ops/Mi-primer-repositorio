@@ -1,3 +1,1 @@
-Esta es la segunda tarea del curso
-
-Esta es la versión de la rama main
+cambio hecho desde desarrollo
