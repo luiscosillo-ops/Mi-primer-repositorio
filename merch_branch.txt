@@ -1,0 +1,1 @@
+Este archivo contiene cambios integrados de la rama main y la rama desarrollo.
